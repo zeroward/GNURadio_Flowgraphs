@@ -9,5 +9,7 @@ Dump of useful GNURadio Flowgraphs
 `sudo apt install gr-osmosdr`
 
 ## List of graphs
-SinkAndSave.grc
-: Simple QT GUI sink with ability to save data
+<dl>
+  <dt>SinkAndSave.grc</dt>
+  <dd>Simple QT GUI sink with ability to save data</dd>
+</dl>
